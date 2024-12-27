@@ -16,6 +16,5 @@ You may also see any lint errors in the console.
 
 ## App preview
 
-(image.png)
-
-(image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
