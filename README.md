@@ -16,6 +16,6 @@ You may also see any lint errors in the console.
 
 ## App preview
 
-(image.png)
+https://github.com/archita172004/Weather-Wise/blob/a447ae906f0a251a60af3c3c1880307583501233/image.png
 
-(image-1.png)
+https://github.com/archita172004/Weather-Wise/blob/a447ae906f0a251a60af3c3c1880307583501233/image-1.png
