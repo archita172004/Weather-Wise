@@ -16,6 +16,6 @@ You may also see any lint errors in the console.
 
 ## App preview
 
-(image.png)
+<img src="https://i.imgur.com/ftMrvmg.png" alt="Screenshot1" width="500"/>
 
-(image-1.png)
+<img src="https://i.imgur.com/SXdM6jp.png" alt="Screenshot2" width="500" >
